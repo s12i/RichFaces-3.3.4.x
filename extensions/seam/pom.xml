@@ -35,7 +35,7 @@
 	<dependency>
 		<groupId>org.richfaces</groupId>
 		<artifactId>ajax4jsf</artifactId>
-		<version>3.3.3.Final</version>
+		<version>3.3.4.Final</version>
 	</dependency>
 	<dependency>
 		<groupId>jboss</groupId>

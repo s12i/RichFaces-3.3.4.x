@@ -2,7 +2,7 @@
 	<parent>
     		<artifactId>samples</artifactId>
     		<groupId>org.richfaces</groupId>
-	    	<version>3.3.3.Final</version>
+	    	<version>3.3.4.Final</version>
 		<relativePath>../samples</relativePath>
 	</parent>
 
@@ -50,7 +50,7 @@
 	<groupId>org.richfaces</groupId>
 	<artifactId>test-applications</artifactId>
 	<packaging>pom</packaging>
-	<version>3.3.3.Final</version>
+	<version>3.3.4.Final</version>
 	<name>RichFaces Test Applications</name>
 
 	<properties>
