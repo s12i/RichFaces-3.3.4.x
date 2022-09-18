@@ -11,8 +11,6 @@
 		<snapshotRepository>
 			dav:https://snapshots.jboss.org/maven2
 		</snapshotRepository>
-		<maven.compiler.source>1.6</maven.compiler.source>
-		<maven.compiler.target>1.6</maven.compiler.target>
 	</properties>
 	<dependencies />
 	<build>
