@@ -9,6 +9,9 @@ RichFaces 3.3.4に対してRF-7248の修正を適用したものです。
 - richfaces - Revision 23293: /branches/community/release-3.3.4 - https://anonsvn.jboss.org/repos/richfaces/branches/community/release-3.3.4/
 - How To Build RichFaces Snapshots Manually (3.3.x) - https://developer.jboss.org/docs/DOC-9919
 - Can't build RF 3.3.4 - https://developer.jboss.org/thread/280290
-- Maven 3.8.1 で mvn install 出来ない(maven-default-http-blocker)されたメモ - https://qiita.com/bazoo/items/3b5cab094b25cbbd8019
+- Source option 5 is no longer supported. Use 6 or later. #400 - https://github.com/jflex-de/jflex/issues/400  
+  ymlファイル中のJDK指定を11から8へ変更した。
+- Maven 3.8.1 で mvn install 出来ない(maven-default-http-blocker)されたメモ - https://qiita.com/bazoo/items/3b5cab094b25cbbd8019  
+  pom.xmlファイル中のhttpをhttpsへ変更した。
 - OSS活動する人必見!Forkしたリポジトリのローカルでの管理方法について - https://nishinatoshiharu.com/how-to-manage-forkrepo/
 - 外のsvnリポジトリからforkして追随しつつgitで開発する． - https://qiita.com/monamour555/items/a4aa62e5757fede49f9f
