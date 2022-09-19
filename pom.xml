@@ -109,30 +109,8 @@
 				<enabled>false</enabled>
 				<updatePolicy>never</updatePolicy>
 			</snapshots>
-			<id>maven-repository.dev.java.net</id>
-			<name>Java.net Repository for Maven</name>
-			<url>http://download.java.net/maven/1</url>
-			<layout>legacy</layout>
-		</repository>
-		<repository>
-			<releases />
-			<snapshots>
-				<enabled>false</enabled>
-				<updatePolicy>never</updatePolicy>
-			</snapshots>
-			<id>maven2-repository.dev.java.net</id>
-			<name>Java.net Repository for Maven</name>
-			<url>http://download.java.net/maven/2/</url>
-			<layout>default</layout>
-		</repository>
-		<repository>
-			<releases />
-			<snapshots>
-				<enabled>false</enabled>
-				<updatePolicy>never</updatePolicy>
-			</snapshots>
 			<id>repository.jboss.org</id>
-			<url>http://repository.jboss.org/maven2</url>
+			<url>https://repository.jboss.org/maven2</url>
 		</repository>
 	</repositories>
     <pluginRepositories>
@@ -144,7 +122,7 @@
     </pluginRepositories>	
 	<distributionManagement>
 		<downloadUrl>
-			http://www.jboss.org/richfaces/download
+			https://www.jboss.org/richfaces/download
 		</downloadUrl>
 		<repository>
 			<id>repository.jboss.org</id>
